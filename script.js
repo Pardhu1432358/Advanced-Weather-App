@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // API Configuration
   const API_KEY = '4bd9f95687b6496ca85114013250201'; // Replace with your WeatherAPI.com API key
-  const BASE_URL = 'http://api.weatherapi.com/v1';
+  const BASE_URL = 'https://api.weatherapi.com/v1';
 
   // Initialize map
   let map;
